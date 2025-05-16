@@ -1,0 +1,11 @@
+{
+    ".pdf": "Documentos",
+    ".mp3": "Áudios",
+    ".jpg": "Imagens",
+    ".png": "Imagens",
+    ".zip": "Compactados",
+    ".mp4": "Vídeos",
+    ".exe": "Instaladores",
+    ".docx": "Docx",
+    ".txt" : "TXT"
+}
