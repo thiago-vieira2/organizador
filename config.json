@@ -7,5 +7,13 @@
     ".mp4": "Vídeos",
     ".exe": "Instaladores",
     ".docx": "Docx",
-    ".txt" : "TXT"
+    ".txt" : "TXT",
+    ".7z" : "Compactados",
+    ".rar" : "Compactados",
+    ".xlsm": "Documentos",
+    ".pptx": "Documentos",
+    ".epub": "Livros",
+    ".xlsx": "Documentos",
+    ".msi": "Instaladores"
+
 }
